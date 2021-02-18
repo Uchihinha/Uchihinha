@@ -3,7 +3,7 @@
 ### About
 - 🔭 Currently I work as Tech Lead at <a target="_blank" href="http://burh.com.br">Burh</a>
 - 🏠 Living in Sorocaba, SP - Brazil 🇧🇷
-- 🖥 Passionate about technology, I've been working in the area about over two years
+- 🖥 Passionate about technology, I've been working in the area about three years
 
 ### Stack
 - 🔌 <b>Back Stack:</b> PHP (Laravel, Lumen, CodeIgniter), Python
