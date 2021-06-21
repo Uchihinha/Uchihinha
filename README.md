@@ -1,4 +1,4 @@
-## Gabriel Jorge, 19y - Full Stack Developer 💻
+## Gabriel Jorge, 20y - Full Stack Developer 💻
 
 ### About
 - 🔭 Currently I work as Tech Lead at <a target="_blank" href="http://burh.com.br">Burh</a>
