@@ -3,13 +3,13 @@
 ### About
 - 🔭 Currently I work as Full Stack Developer at <a target="_blank" href="https://turnoverbnb.com/">TurnoverBnB</a>
 - 🏠 Living in Sorocaba, SP - Brazil 🇧🇷
-- 🖥 Passionate about technology, I've been working in the area for over three years
+- 🖥 Passionate about technology, I've been working in the area for over fours years
 
 ### Stack
 - 🔌 <b>Back Stack:</b> PHP (Laravel, Lumen, CodeIgniter), Python
 - 🖥️ <b>Server Stack:</b> Linux, NGINX, Docker, AWS, GCP
-- 💾 <b>Database Stack:</b> MySQL, PostgreSQL, Oracle
-- 🎯 <b>Front Stack:</b> HTML, CSS, VueJS, Angular, SASS, JavaScript
+- 💾 <b>Database Stack:</b> MySQL, PostgreSQL, Oracle, MongoDB
+- 🎯 <b>Front Stack:</b> HTML, CSS, VueJS, Angular, SASS, JavaScript (TypeScript)
 - 📱  <b>Mobile Stack:</b> Ionic
 
 ### Contact
