@@ -6,7 +6,7 @@
 - 🖥 Passionate about technology, I've been working in the area for over fours years
 
 ### Stack
-- 🔌 <b>Back Stack:</b> PHP (Laravel, Lumen, CodeIgniter), Python
+- 🔌 <b>Back Stack:</b> PHP (Laravel, Lumen, CodeIgniter), Python, NodeJs
 - 🖥️ <b>Server Stack:</b> Linux, NGINX, Docker, AWS, GCP
 - 💾 <b>Database Stack:</b> MySQL, PostgreSQL, Oracle, MongoDB
 - 🎯 <b>Front Stack:</b> HTML, CSS, VueJS, Angular, SASS, JavaScript (TypeScript)
