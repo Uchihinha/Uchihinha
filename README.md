@@ -1,4 +1,4 @@
-## Gabriel Jorge, 20y - Full Stack Developer 💻
+## Gabriel Jorge, 21y - Full Stack Developer 💻
 
 ### About
 - 🔭 Currently I work as Full Stack Developer at <a target="_blank" href="https://turnoverbnb.com/">TurnoverBnB</a>
