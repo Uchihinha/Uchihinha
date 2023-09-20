@@ -1,7 +1,7 @@
 ## Gabriel Jorge, 22y - Full Stack Developer 💻
 
 ### About
-- 🔭 Currently I work as Full Stack Developer at <a target="_blank" href="https://turnoverbnb.com/">TurnoverBnB</a>
+- 🔭 Currently I work as a Senior Sofware Engineer at <a target="_blank" href="https://turno.com/">Turno</a>
 - 🏠 Living in Sorocaba, SP - Brazil 🇧🇷
 - 🖥 Passionate about technology, I've been working in the area for over five years
 
