@@ -1,4 +1,4 @@
-## Gabriel Jorge, 22y - Full Stack Developer 💻
+## Gabriel Jorge, 22y - Full Stack Software Engineer 💻
 
 ### About
 - 🔭 Currently I work as a Senior Sofware Engineer at <a target="_blank" href="https://turno.com/">Turno</a>
