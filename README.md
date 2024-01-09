@@ -3,10 +3,10 @@
 ### About
 - 🔭 Currently I work as a Senior Sofware Engineer at <a target="_blank" href="https://turno.com/">Turno</a>
 - 🏠 Living in Sorocaba, SP - Brazil 🇧🇷
-- 🖥 Passionate about technology, I've been working in the area for over five years
+- 🖥 Passionate about technology, I've been working in the area for over six years
 
 ### Stack
-- 🔌 <b>Back Stack:</b> PHP (Laravel, Lumen, CodeIgniter), Python, NodeJs
+- 🔌 <b>Back Stack:</b> PHP (Laravel, Lumen, CodeIgniter), Python, Nodejs, Nestjs (Typescript), GraphQL
 - 🖥️ <b>Server Stack:</b> Linux, NGINX, Docker, AWS, GCP
 - 💾 <b>Database Stack:</b> MySQL, PostgreSQL, Oracle, MongoDB
 - 🎯 <b>Front Stack:</b> HTML, CSS, VueJS, Angular, SASS, JavaScript (TypeScript)
