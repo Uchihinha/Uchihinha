@@ -1,8 +1,8 @@
-## Gabriel Jorge, 22y - Full Stack Software Engineer 💻
+## Gabriel Jorge, 23y - Full Stack Software Engineer 💻
 
 ### About
-- 🔭 Currently I work as a Senior Sofware Engineer at <a target="_blank" href="https://turno.com/">Turno</a>
-- 🏠 Living in Sorocaba, SP - Brazil 🇧🇷
+- 🔭 Currently I'm working as a Senior Sofware Engineer at <a target="_blank" href="https://turno.com/">Turno</a>
+- 🏠 Living in São Paulo - Brazil 🇧🇷
 - 🖥 Passionate about technology, I've been working in the area for over six years
 
 ### Stack
